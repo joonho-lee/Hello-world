@@ -1,2 +1,2 @@
-# Hello-world
-Just another repository
+# Hello-world(GitHup practice)
+Just a practice
